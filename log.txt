@@ -1,13 +1,42 @@
 ﻿==========================================================================
  OYUN LOG OTURUMU BAŞLADI
- Tarih/Saat : 2026-07-29 18:03:43
+ Tarih/Saat : 2026-07-29 18:09:31
  Platform   : WindowsPlayer
  Unity Sürüm: 6000.5.3f1
  Log Dosyası: C:\Users\ASUS\My project\Build\log.txt
 ==========================================================================
 
-[18:03:43.966] [INFO ] [GameLogger] Log sistemi aktif. Dosya konumu: C:\Users\ASUS\My project\Build\log.txt
-[18:03:44.731] [INFO ] [Settings] Voice Mode changed: PTT=True
-[18:03:45.117] [INFO ] [SteamLobbyManager] Steamworks.NET initialized successfully. Local Steam ID: 76561199443114363
+[18:09:31.806] [INFO ] [GameLogger] Log sistemi aktif. Dosya konumu: C:\Users\ASUS\My project\Build\log.txt
+[18:09:32.562] [INFO ] [Settings] Voice Mode changed: PTT=True
+[18:09:32.785] [INFO ] [SteamLobbyManager] Steamworks.NET initialized successfully. Local Steam ID: 76561199443114363
+[18:11:10.744] [INFO ] [SteamLobbyManager] Lobby created: 109775244751834623. Starting GameNet host...
+[18:11:10.747] [INFO ] [GameNet] 16 adet sahne objesi doğrulandı ve senkronizasyona eklendi.
+[18:11:10.747] [INFO ] [GameNet] Server baslatildi.
+[18:11:10.762] [INFO ] [ControlRigProceduralAnimator] Bulunan Target'lar: Hip: True, SpineRoot: True, RightLeg: True, LeftLeg: True
+[18:11:10.763] [INFO ] [GameNet] Auto-Spawned Player for ConnectionId: 0 at (0.00, 0.00, 0.00)
+[18:11:10.771] [INFO ] <color=green>[PlayerLobbyState]</color> Local player initialized: Name='Yusufi', IsHost=True, SteamId=76561199443114363, IsReady=True
+[18:11:10.771] [INFO ] <color=cyan>[PlayerLobbyState] Server updated player info:</color> NetId=1, Name='Yusufi', IsHost=True, SteamId=76561199443114363, IsReady=True
+[18:11:10.781] [INFO ] [ScenarioSessionManager] Loaded Assets -> Scenarios: 100, Innocents: 100, Criminals: 200
+[18:11:14.177] [INFO ] [GameNet] Baglanti kuruldu: 1
+[18:11:14.188] [INFO ] [ControlRigProceduralAnimator] Bulunan Target'lar: Hip: True, SpineRoot: True, RightLeg: True, LeftLeg: True
+[18:11:14.188] [INFO ] [GameNet] Auto-Spawned Player for ConnectionId: 1 at (1.50, 0.00, 0.00)
+[18:11:14.269] [INFO ] <color=cyan>[PlayerLobbyState] Received CmdUpdatePlayerInfo from conn 1:</color> Name='Hearref', IsHost=False, SteamId=76561198351423216, IsReady=False
+[18:11:15.375] [INFO ] <color=yellow>[PlayerLobbyState] Received CmdSetReady from conn 1:</color> Name='Hearref', IsReady = True
+[18:11:17.253] [INFO ] <color=orange>[SteamLobbyUI] 'Start Game' clicked. Checking player ready states...</color>
+[18:11:17.253] [INFO ]    👤 Player in Lobby: Name='Yusufi', IsHost=True, IsReady=True
+[18:11:17.253] [INFO ]    👤 Player in Lobby: Name='Hearref', IsHost=False, IsReady=True
+[18:11:17.253] [INFO ] [SteamLobbyUI] ✅ All required players are ready. Invoking CmdStartGame...
+[18:11:17.254] [INFO ] <color=magenta>[PlayerLobbyState] CmdStartGame requested by 'Yusufi' (IsHost: True, NetRuntime.IsServer: True)</color>
+[18:11:17.254] [INFO ]    📋 Lobby Player: Name='Yusufi', IsHost=True, IsReady=True, ConnId=0
+[18:11:17.254] [INFO ]    📋 Lobby Player: Name='Hearref', IsHost=False, IsReady=True, ConnId=1
+[18:11:17.757] [INFO ] [ScenarioGameManager] Senaryo dağıtımı başlatılıyor... Odadaki Aktif Oyuncu Sayısı: 2
+[18:11:17.762] [INFO ] <color=cyan>[Session Started]</color> Scenario: Banka Çalışanı Suç Ortaklığı Soygunu (Soygun)
+[18:11:17.762] [INFO ] [Actual Criminals: 1 | Perceived by Witnesses: 1]
+[18:11:17.769] [INFO ] Player: Oyuncu_Sanal_3 | Role: Criminal (Banka Soyguncusu – Ekip Lideri) | Matching Tags Count: 2
+[18:11:17.769] [INFO ] Player: Hearref | Role: Innocent (Banka Veznedarı) | Matching Tags Count: 2
+[18:11:17.769] [INFO ] Player: Yusufi | Role: Detective (Dedektif) | Matching Tags Count: 0
+[18:11:17.769] [INFO ] <color=green>[Role Assigned]</color> Yusufi -> Banka Soyguncusu – Ekip Lideri
+[18:11:17.769] [INFO ] <color=green>[Role Assigned]</color> Hearref -> Banka Veznedarı
+[18:11:17.769] [INFO ] <color=cyan>[ScenarioGameManager]</color> Senaryo ve Roller tüm oyunculara GameNet üzerinden iletildi!
 
-[18:03:59.720] [INFO ] Oyun oturumu sonlandı.
+[18:12:08.517] [INFO ] Oyun oturumu sonlandı.
