@@ -1,36 +1,13 @@
 ﻿==========================================================================
  OYUN LOG OTURUMU BAŞLADI
- Tarih/Saat : 2026-07-29 11:06:39
+ Tarih/Saat : 2026-07-29 16:25:49
  Platform   : WindowsPlayer
  Unity Sürüm: 6000.5.3f1
  Log Dosyası: C:\Users\ASUS\My project\Build\log.txt
 ==========================================================================
 
-[11:06:39.611] [INFO ] [GameLogger] Log sistemi aktif. Dosya konumu: C:\Users\ASUS\My project\Build\log.txt
-[11:06:39.634] [INFO ] ThreadLog initialized.
-[11:06:40.109] [INFO ] [SteamLobbyManager] Steam initialized successfully. Local Steam ID: 76561199443114363
-[11:06:40.119] [INFO ] [ScenarioSessionManager] Loaded Assets -> Scenarios: 100, Innocents: 100, Criminals: 200
-[11:06:40.844] [INFO ] [Settings] Voice Mode changed: PTT=True
-[11:06:50.959] [INFO ] [SteamLobbyManager] Lobby created: 109775244720261256. Starting Mirror host...
-[11:06:50.961] [INFO ] Starting server [SteamSockets].
-[11:06:50.966] [INFO ] Server started listening
-[11:06:51.050] [INFO ] [ControlRigProceduralAnimator] Bulunan Target'lar: Hip: True, SpineRoot: True, RightLeg: True, LeftLeg: True
-[11:06:51.088] [INFO ] [ScenarioSessionManager] Loaded Assets -> Scenarios: 100, Innocents: 100, Criminals: 200
-[11:10:33.046] [INFO ] Accepting connection 76561198829470550
-[11:10:33.046] [INFO ] Connection 76561198829470550 state changed: k_ESteamNetworkingConnectionState_FindingRoute
-[11:10:33.612] [INFO ] Client with SteamID 76561198829470550 connected. Assigning connection id 1
-[11:10:33.710] [INFO ] [ControlRigProceduralAnimator] Bulunan Target'lar: Hip: True, SpineRoot: True, RightLeg: True, LeftLeg: True
-[11:10:38.562] [INFO ] [ScenarioGameManager] Senaryo dağıtımı başlatılıyor... Odadaki Aktif Oyuncu Sayısı: 2
-[11:10:38.565] [INFO ] <color=cyan>[Session Started]</color> Scenario: Okul Kafeteryası Zehir Vakası (Cinayet)
-[11:10:38.565] [INFO ] [Actual Criminals: 1 | Perceived by Witnesses: 1]
-[11:10:38.572] [INFO ] Player: Yusufi | Role: Detective (Dedektif) | Matching Tags Count: 0
-[11:10:38.573] [INFO ] Player: Oyuncu_Sanal_3 | Role: Criminal (Katil – Miras İçin Zehirci) | Matching Tags Count: 2
-[11:10:38.573] [INFO ] Player: khinda | Role: Innocent (Hizmetçi) | Matching Tags Count: 2
-[11:10:38.574] [INFO ] <color=green>[Role Assigned]</color> Yusufi -> Dedektif
-[11:10:38.574] [INFO ] <color=green>[Role Assigned]</color> khinda -> Katil – Miras İçin Zehirci
-[11:10:38.574] [INFO ] <color=cyan>[ScenarioGameManager]</color> Senaryo ve Roller tüm oyunculara SyncVar ile iletildi!
-[11:11:23.007] [ERROR] AssignClientAuthority for Cassette (5) (UnityEngine.GameObject) already has an owner. Use RemoveClientAuthority() first.
-[11:14:16.641] [INFO ] Connection id 1 disconnected.
-[11:14:16.652] [INFO ] Transport shut down - server.
+[16:25:49.153] [INFO ] [GameLogger] Log sistemi aktif. Dosya konumu: C:\Users\ASUS\My project\Build\log.txt
+[16:25:49.947] [INFO ] [Settings] Voice Mode changed: PTT=True
+[16:25:50.251] [INFO ] [SteamLobbyManager] Steamworks.NET initialized successfully. Local Steam ID: 76561199443114363
 
-[11:14:16.657] [INFO ] Oyun oturumu sonlandı.
+[16:26:09.116] [INFO ] Oyun oturumu sonlandı.
