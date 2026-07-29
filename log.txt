@@ -1,13 +1,13 @@
 ﻿==========================================================================
  OYUN LOG OTURUMU BAŞLADI
- Tarih/Saat : 2026-07-29 16:25:49
+ Tarih/Saat : 2026-07-29 18:03:43
  Platform   : WindowsPlayer
  Unity Sürüm: 6000.5.3f1
  Log Dosyası: C:\Users\ASUS\My project\Build\log.txt
 ==========================================================================
 
-[16:25:49.153] [INFO ] [GameLogger] Log sistemi aktif. Dosya konumu: C:\Users\ASUS\My project\Build\log.txt
-[16:25:49.947] [INFO ] [Settings] Voice Mode changed: PTT=True
-[16:25:50.251] [INFO ] [SteamLobbyManager] Steamworks.NET initialized successfully. Local Steam ID: 76561199443114363
+[18:03:43.966] [INFO ] [GameLogger] Log sistemi aktif. Dosya konumu: C:\Users\ASUS\My project\Build\log.txt
+[18:03:44.731] [INFO ] [Settings] Voice Mode changed: PTT=True
+[18:03:45.117] [INFO ] [SteamLobbyManager] Steamworks.NET initialized successfully. Local Steam ID: 76561199443114363
 
-[16:26:09.116] [INFO ] Oyun oturumu sonlandı.
+[18:03:59.720] [INFO ] Oyun oturumu sonlandı.
