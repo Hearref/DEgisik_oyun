@@ -1,0 +1,430 @@
+﻿==========================================================================
+ OYUN LOG OTURUMU BAŞLADI
+ Tarih/Saat : 2026-07-29 10:08:07
+ Platform   : WindowsPlayer
+ Unity Sürüm: 6000.5.3f1
+ Log Dosyası: C:\Users\ASUS\My project\Build\log.txt
+==========================================================================
+
+[10:08:07.751] [INFO ] [GameLogger] Log sistemi aktif. Dosya konumu: C:\Users\ASUS\My project\Build\log.txt
+[10:08:07.773] [INFO ] ThreadLog initialized.
+[10:08:08.096] [INFO ] [SteamLobbyManager] Steam initialized successfully. Local Steam ID: 76561199443114363
+[10:08:08.106] [INFO ] [ScenarioSessionManager] Loaded Assets -> Scenarios: 100, Innocents: 100, Criminals: 200
+[10:08:08.749] [INFO ] [Settings] Voice Mode changed: PTT=True
+[10:08:18.297] [INFO ] [SteamLobbyManager] Lobby created: 109775244717654361. Starting Mirror host...
+[10:08:18.299] [INFO ] Starting server [SteamSockets].
+[10:08:18.306] [INFO ] Server started listening
+[10:08:18.385] [INFO ] [ControlRigProceduralAnimator] Bulunan Target'lar: Hip: True, SpineRoot: True, RightLeg: True, LeftLeg: True
+[10:08:18.419] [INFO ] [ScenarioSessionManager] Loaded Assets -> Scenarios: 100, Innocents: 100, Criminals: 200
+[10:09:05.026] [INFO ] Transport shut down - server.
+[10:09:05.028] [INFO ] [SteamLobbyManager] Left lobby.
+[10:09:11.624] [INFO ] [SteamLobbyManager] Lobby created: 109775244717654585. Starting Mirror host...
+[10:09:11.624] [INFO ] Starting server [SteamSockets].
+[10:09:11.624] [INFO ] Server started listening
+[10:09:11.643] [INFO ] [ControlRigProceduralAnimator] Bulunan Target'lar: Hip: True, SpineRoot: True, RightLeg: True, LeftLeg: True
+[10:09:17.049] [INFO ] Accepting connection 76561198829470550
+[10:09:17.050] [INFO ] Connection 76561198829470550 state changed: k_ESteamNetworkingConnectionState_FindingRoute
+[10:09:17.954] [INFO ] Client with SteamID 76561198829470550 connected. Assigning connection id 1
+[10:09:18.026] [INFO ] [ControlRigProceduralAnimator] Bulunan Target'lar: Hip: True, SpineRoot: True, RightLeg: True, LeftLeg: True
+[10:09:22.612] [INFO ] [ScenarioGameManager] Senaryo dağıtımı başlatılıyor... Odadaki Aktif Oyuncu Sayısı: 2
+[10:09:22.616] [INFO ] <color=cyan>[Session Started]</color> Scenario: Süpermarket Kasa Arkası Bıçaklı Soygun (Soygun)
+[10:09:22.616] [INFO ] [Actual Criminals: 1 | Perceived by Witnesses: 1]
+[10:09:22.623] [INFO ] Player: Yusufi | Role: Innocent (Market Kasiyeri) | Matching Tags Count: 2
+[10:09:22.623] [INFO ] Player: khinda | Role: Criminal (Market Gaspçısı – Bıçaklı) | Matching Tags Count: 2
+[10:09:22.623] [INFO ] Player: Oyuncu_Sanal_3 | Role: Detective (Dedektif) | Matching Tags Count: 0
+[10:09:22.624] [INFO ] <color=green>[Role Assigned]</color> khinda -> Market Kasiyeri
+[10:09:22.624] [INFO ] <color=green>[Role Assigned]</color> Yusufi -> Market Gaspçısı – Bıçaklı
+[10:09:22.624] [INFO ] <color=cyan>[ScenarioGameManager]</color> Senaryo ve Roller tüm oyunculara SyncVar ile iletildi!
+[10:10:21.806] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (4) [netId=12] component Cassette (4) [index=1] without authority
+[10:10:28.068] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,72m)
+[10:10:28.069] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:10:28.171] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=0
+[10:10:31.795] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,84m)
+[10:10:31.795] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:10:34.791] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (2) [netId=13] component Cassette (2) [index=1] without authority
+[10:10:37.132] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,93m)
+[10:10:37.132] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:10:37.146] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:11:15.076] [INFO ] [Settings] Voice Mode changed: PTT=False
+[10:11:31.111] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (2) [netId=13] component Cassette (2) [index=1] without authority
+[10:11:47.918] [INFO ] Connection id 1 disconnected.
+[10:11:47.926] [INFO ] Transport shut down - server.
+[10:11:47.926] [INFO ] [SteamLobbyManager] Left lobby.
+[10:11:58.516] [INFO ] [SteamLobbyManager] Joined lobby 109775244717655233. Connecting to host: 76561198829470550
+[10:11:58.518] [INFO ] Starting client [SteamSockets], target address 76561198829470550.
+[10:11:58.537] [INFO ] Connection state changed: k_ESteamNetworkingConnectionState_Connecting - 
+[10:11:59.232] [INFO ] Connection state changed: k_ESteamNetworkingConnectionState_FindingRoute - 
+[10:11:59.466] [INFO ] Connection established.
+[10:11:59.547] [INFO ] [ControlRigProceduralAnimator] Bulunan Target'lar: Hip: True, SpineRoot: True, RightLeg: True, LeftLeg: True
+[10:12:06.846] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,65m)
+[10:12:06.846] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:06.846] [WARN ] [CassetteRecorder] ⚠ Play Başarısız: Cihazda kaset yok veya kaset henüz boş!
+[10:12:09.893] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=0
+[10:12:13.356] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,71m)
+[10:12:13.356] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:13.809] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,74m)
+[10:12:13.809] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:13.994] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,75m)
+[10:12:13.994] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:14.256] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,74m)
+[10:12:14.256] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:14.443] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:12:14.449] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 19756)
+[10:12:14.480] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,82m)
+[10:12:14.480] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:14.740] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,81m)
+[10:12:14.740] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:14.940] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,80m)
+[10:12:14.941] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:15.161] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,80m)
+[10:12:15.162] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:15.336] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,72m)
+[10:12:15.337] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:15.365] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=151704
+[10:12:15.611] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=158319
+[10:12:15.732] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=174195
+[10:12:15.813] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:12:16.395] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,73m)
+[10:12:16.395] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:17.008] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,79m)
+[10:12:17.008] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:17.908] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,71m)
+[10:12:17.908] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:18.293] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=179928
+[10:12:18.392] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,74m)
+[10:12:18.392] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:18.582] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,72m)
+[10:12:18.582] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:18.839] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:12:18.846] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 20697)
+[10:12:18.892] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,72m)
+[10:12:18.892] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:18.939] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 24460)
+[10:12:19.346] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,74m)
+[10:12:19.346] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:19.521] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,74m)
+[10:12:19.521] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:20.261] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,71m)
+[10:12:20.261] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:20.312] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 44216)
+[10:12:20.438] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,73m)
+[10:12:20.438] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:20.524] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 10348)
+[10:12:21.106] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,78m)
+[10:12:21.106] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:21.813] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,71m)
+[10:12:21.814] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:21.857] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 37631)
+[10:12:22.157] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,84m)
+[10:12:22.157] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:22.529] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,85m)
+[10:12:22.529] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:22.870] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,78m)
+[10:12:22.873] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:23.411] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,78m)
+[10:12:23.411] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:23.564] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,79m)
+[10:12:23.564] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:24.376] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=214326
+[10:12:24.462] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=218736
+[10:12:24.475] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,75m)
+[10:12:24.476] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:24.668] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=230643
+[10:12:24.669] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,74m)
+[10:12:24.669] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:24.844] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,74m)
+[10:12:24.844] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:25.009] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=252693
+[10:12:25.075] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=256662
+[10:12:25.663] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,50m)
+[10:12:25.663] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:25.704] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=294588
+[10:12:25.806] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=301644
+[10:12:25.892] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=306495
+[10:12:26.046] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,47m)
+[10:12:26.046] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:26.897] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (4) (Mesafe: 0,97m)
+[10:12:26.897] [INFO ] [CassetteRecorderUI] 🗑 DELETE Butonuna basıldı!
+[10:12:28.804] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,61m)
+[10:12:28.804] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:28.804] [WARN ] [CassetteRecorder] ⚠ Play Başarısız: Cihazda kaset yok veya kaset henüz boş!
+[10:12:29.171] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,59m)
+[10:12:29.173] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:29.173] [WARN ] [CassetteRecorder] ⚠ Play Başarısız: Cihazda kaset yok veya kaset henüz boş!
+[10:12:29.324] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,57m)
+[10:12:29.324] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:29.324] [WARN ] [CassetteRecorder] ⚠ Play Başarısız: Cihazda kaset yok veya kaset henüz boş!
+[10:12:29.485] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,57m)
+[10:12:29.485] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:29.485] [WARN ] [CassetteRecorder] ⚠ Play Başarısız: Cihazda kaset yok veya kaset henüz boş!
+[10:12:30.166] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,74m)
+[10:12:30.166] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:30.671] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,62m)
+[10:12:30.671] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:30.671] [WARN ] [CassetteRecorder] ⚠ Play Başarısız: Cihazda kaset yok veya kaset henüz boş!
+[10:12:31.391] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,59m)
+[10:12:31.391] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:31.391] [WARN ] [CassetteRecorder] ⚠ Play Başarısız: Cihazda kaset yok veya kaset henüz boş!
+[10:12:31.583] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,59m)
+[10:12:31.583] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:31.583] [WARN ] [CassetteRecorder] ⚠ Play Başarısız: Cihazda kaset yok veya kaset henüz boş!
+[10:12:32.140] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,63m)
+[10:12:32.140] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:32.331] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (4) (Mesafe: 0,82m)
+[10:12:32.331] [INFO ] [CassetteRecorderUI] 🗑 DELETE Butonuna basıldı!
+[10:12:32.427] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=0
+[10:12:32.536] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,75m)
+[10:12:32.536] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:32.702] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=0
+[10:12:34.366] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,57m)
+[10:12:34.366] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:34.812] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,55m)
+[10:12:34.812] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:34.863] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 32249)
+[10:12:35.019] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,57m)
+[10:12:35.019] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:35.059] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 40716)
+[10:12:36.787] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,50m)
+[10:12:36.787] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:36.823] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 10348)
+[10:12:37.485] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,53m)
+[10:12:37.485] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:38.578] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,53m)
+[10:12:38.578] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:38.627] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 10348)
+[10:12:40.423] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,65m)
+[10:12:40.423] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:40.484] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=47628
+[10:12:42.420] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,57m)
+[10:12:42.420] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:42.751] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,52m)
+[10:12:42.751] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:42.793] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:12:46.184] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,54m)
+[10:12:46.184] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:12:46.223] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:12:48.595] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,61m)
+[10:12:48.595] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:49.479] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,57m)
+[10:12:49.480] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:12:49.904] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,50m)
+[10:12:49.904] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:50.425] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,49m)
+[10:12:50.425] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:50.603] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,49m)
+[10:12:50.603] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:50.753] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,49m)
+[10:12:50.753] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:12:51.014] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=124803
+[10:12:51.344] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=407366
+[10:12:51.603] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,48m)
+[10:12:51.603] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:13:42.499] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,93m)
+[10:13:42.499] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:13:42.554] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=423242
+[10:13:46.384] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,65m)
+[10:13:46.384] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:13:46.791] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,70m)
+[10:13:46.791] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:13:46.824] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:14:09.307] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=591704
+[10:14:13.485] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=0
+[10:14:18.629] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,81m)
+[10:14:18.629] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:14:18.980] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 1,00m)
+[10:14:18.982] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:14:19.019] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:14:21.299] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 0,66m)
+[10:14:23.186] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 161376)
+[10:15:15.016] [INFO ] Sending Disconnect message
+[10:15:15.017] [INFO ] Transport shut down - client.
+[10:15:15.017] [INFO ] Disconnected.
+[10:15:15.017] [INFO ] Transport shut down - client.
+[10:15:15.017] [INFO ] [SteamLobbyManager] Left lobby.
+[10:15:16.185] [INFO ] [SteamLobbyManager] Joined lobby 109775244717655233. Connecting to host: 76561198829470550
+[10:15:16.185] [INFO ] Starting client [SteamSockets], target address 76561198829470550.
+[10:15:16.185] [INFO ] Connection state changed: k_ESteamNetworkingConnectionState_Connecting - 
+[10:15:16.870] [INFO ] Connection state changed: k_ESteamNetworkingConnectionState_FindingRoute - 
+[10:15:17.124] [INFO ] Connection established.
+[10:15:17.168] [INFO ] [ControlRigProceduralAnimator] Bulunan Target'lar: Hip: True, SpineRoot: True, RightLeg: True, LeftLeg: True
+[10:17:11.539] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,58m)
+[10:17:11.539] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:17:11.587] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=0
+[10:17:12.227] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,57m)
+[10:17:12.227] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:17:12.268] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:17:12.649] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,57m)
+[10:17:12.649] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:17:13.257] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,58m)
+[10:17:13.257] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:17:13.829] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=26460
+[10:17:14.460] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,57m)
+[10:17:14.460] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:17:14.918] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,57m)
+[10:17:14.918] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:17:15.048] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=112748
+[10:17:16.651] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,73m)
+[10:17:16.651] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:17:16.689] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:17:17.209] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,94m)
+[10:17:17.209] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:17:17.361] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=205799
+[10:17:17.664] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,85m)
+[10:17:17.664] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:17:18.077] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,78m)
+[10:17:18.078] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:17:18.112] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:17:19.016] [INFO ] Sending Disconnect message
+[10:17:19.017] [INFO ] Transport shut down - client.
+[10:17:19.017] [INFO ] Disconnected.
+[10:17:19.017] [INFO ] Transport shut down - client.
+[10:17:19.017] [INFO ] [SteamLobbyManager] Left lobby.
+[10:17:22.723] [INFO ] [SteamLobbyManager] Lobby created: 109775244717656447. Starting Mirror host...
+[10:17:22.723] [INFO ] Starting server [SteamSockets].
+[10:17:22.723] [INFO ] Server started listening
+[10:17:22.726] [INFO ] [ControlRigProceduralAnimator] Bulunan Target'lar: Hip: True, SpineRoot: True, RightLeg: True, LeftLeg: True
+[10:17:28.328] [INFO ] [ScenarioGameManager] Senaryo dağıtımı başlatılıyor... Odadaki Aktif Oyuncu Sayısı: 1
+[10:17:28.328] [INFO ] <color=cyan>[Session Started]</color> Scenario: İki Katlı Kuyumcu Mağaza Soygunu (Soygun)
+[10:17:28.328] [INFO ] [Actual Criminals: 1 | Perceived by Witnesses: 1]
+[10:17:28.328] [INFO ] Player: Oyuncu_Sanal_3 | Role: Criminal (Kuyumcu Hırsızı – Tek Başına) | Matching Tags Count: 2
+[10:17:28.328] [INFO ] Player: Yusufi | Role: Detective (Dedektif) | Matching Tags Count: 0
+[10:17:28.328] [INFO ] Player: Oyuncu_Sanal_2 | Role: Innocent (Kuyumcu Ustası) | Matching Tags Count: 2
+[10:17:28.328] [INFO ] <color=green>[Role Assigned]</color> Yusufi -> Kuyumcu Hırsızı – Tek Başına
+[10:17:28.328] [INFO ] <color=cyan>[ScenarioGameManager]</color> Senaryo ve Roller tüm oyunculara SyncVar ile iletildi!
+[10:17:37.111] [INFO ] [Settings] Voice Mode changed: PTT=True
+[10:17:38.069] [INFO ] Accepting connection 76561198829470550
+[10:17:38.069] [INFO ] Connection 76561198829470550 state changed: k_ESteamNetworkingConnectionState_FindingRoute
+[10:17:38.652] [INFO ] Client with SteamID 76561198829470550 connected. Assigning connection id 1
+[10:17:38.763] [INFO ] [ControlRigProceduralAnimator] Bulunan Target'lar: Hip: True, SpineRoot: True, RightLeg: True, LeftLeg: True
+[10:17:46.666] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (2) [netId=13] component Cassette (2) [index=1] without authority
+[10:17:48.591] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=221234
+[10:17:50.327] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=0
+[10:17:50.990] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:17:52.741] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=98784
+[10:17:53.182] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=113778
+[10:17:53.536] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=123921
+[10:17:55.192] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,75m)
+[10:17:55.192] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:17:57.374] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=284886
+[10:17:57.703] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=294147
+[10:17:57.841] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,72m)
+[10:17:57.841] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:17:58.025] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=303849
+[10:17:58.225] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=308259
+[10:17:58.410] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=310905
+[10:17:58.581] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=313551
+[10:17:58.844] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,74m)
+[10:17:58.844] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:17:59.040] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:17:59.226] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 7526)
+[10:17:59.441] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,70m)
+[10:17:59.441] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:18:00.588] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=324576
+[10:18:01.132] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,74m)
+[10:18:01.132] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:18:05.342] [WARN ] Send issue: k_EResultLimitExceeded
+[10:18:05.342] [ERROR] Could not send: k_EResultLimitExceeded
+[10:18:05.417] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=177723
+[10:18:10.054] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=0
+[10:18:10.231] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=3528
+[10:18:10.701] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:18:11.523] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=50509
+[10:18:11.915] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=62857
+[10:18:14.161] [ERROR] AssignClientAuthority for Cassette (3) (UnityEngine.GameObject) already has an owner. Use RemoveClientAuthority() first.
+[10:18:14.331] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (3) [netId=14] component Cassette (3) [index=1] without authority
+[10:18:19.644] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,71m)
+[10:18:19.644] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:18:20.220] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,66m)
+[10:18:20.221] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:18:20.304] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=0
+[10:18:21.450] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:18:24.900] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,55m)
+[10:18:24.900] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:18:25.515] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (3) (Mesafe: 0,55m)
+[10:18:25.515] [INFO ] [CassetteRecorderUI] 🔴 RECORD Butonuna basıldı!
+[10:18:25.750] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=197568
+[10:18:25.758] [WARN ] Send issue: k_EResultLimitExceeded
+[10:18:25.759] [ERROR] Could not send: k_EResultLimitExceeded
+[10:18:25.854] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=197568
+[10:18:26.120] [INFO ] [CassetteRecorder] 🎙 Kayıt Başlatıldı (Kaldığı Yerden Ekleme): Cihaz='Mikrofon (Realtek(R) Audio)', Başlangıç Örnek=204624
+[10:18:27.213] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (2) (Mesafe: 0,57m)
+[10:18:27.213] [INFO ] [CassetteRecorderUI] 🟥 STOP Butonuna basıldı!
+[10:18:27.515] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (Mesafe: 0,63m)
+[10:18:27.515] [INFO ] [CassetteRecorderUI] 🟢 PLAY Butonuna basıldı!
+[10:18:27.529] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:18:28.672] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 0,52m)
+[10:18:29.932] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 16000)
+[10:18:31.284] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,20m)
+[10:18:31.461] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 49270)
+[10:18:31.739] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,17m)
+[10:18:31.911] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 44941)
+[10:18:32.126] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,18m)
+[10:18:32.314] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 37848)
+[10:18:32.488] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,20m)
+[10:18:32.629] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 28933)
+[10:18:32.860] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,19m)
+[10:18:32.995] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 20281)
+[10:18:33.205] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,19m)
+[10:18:33.343] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 17688)
+[10:18:33.537] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,20m)
+[10:18:33.676] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 15214)
+[10:18:33.847] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,19m)
+[10:18:34.009] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 1740)
+[10:18:34.191] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,19m)
+[10:18:34.329] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:18:34.496] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,18m)
+[10:18:34.647] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:18:34.821] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,17m)
+[10:18:34.961] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 3000)
+[10:18:35.114] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,18m)
+[10:18:35.261] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:18:35.439] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,18m)
+[10:18:35.595] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:18:35.752] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,19m)
+[10:18:35.915] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 1500)
+[10:18:36.064] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,19m)
+[10:18:36.209] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 500)
+[10:18:36.396] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,18m)
+[10:18:36.544] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:18:36.689] [INFO ] [CassetteRecorderUI] Raycast Hit: Cube (5) (Mesafe: 1,19m)
+[10:18:36.825] [INFO ] [CassetteRecorder] ▶ Oynatılıyor: 'Tape Recording #1' (Head: 0)
+[10:19:26.284] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (3) [netId=14] component Cassette (3) [index=1] without authority
+[10:19:34.882] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (5) [netId=10] component Cassette (5) [index=1] without authority
+[10:19:37.969] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (1) [netId=11] component Cassette (1) [index=1] without authority
+[10:19:41.336] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (5) [netId=10] component Cassette (5) [index=1] without authority
+[10:19:44.520] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (2) [netId=13] component Cassette (2) [index=1] without authority
+[10:20:39.777] [ERROR] AssignClientAuthority for Cassette (3) (UnityEngine.GameObject) already has an owner. Use RemoveClientAuthority() first.
+[10:20:40.071] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (3) [netId=14] component Cassette (3) [index=1] without authority
+[10:20:41.525] [ERROR] AssignClientAuthority for Cassette (3) (UnityEngine.GameObject) already has an owner. Use RemoveClientAuthority() first.
+[10:20:41.539] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (3) [netId=14] component Cassette (3) [index=1] without authority
+[10:20:43.164] [ERROR] AssignClientAuthority for Cassette (3) (UnityEngine.GameObject) already has an owner. Use RemoveClientAuthority() first.
+[10:20:56.584] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (3) [netId=14] component Cassette (3) [index=1] without authority
+[10:21:01.703] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (2) [netId=13] component Cassette (2) [index=1] without authority
+[10:21:07.075] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (3) [netId=14] component Cassette (3) [index=1] without authority
+[10:21:14.088] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (2) [netId=13] component Cassette (2) [index=1] without authority
+[10:21:18.458] [WARN ] [PlayerPickupSystem] Masadaki Not Defteri sadece Dedektif tarafından incelenebilir!
+[10:21:20.474] [ERROR] AssignClientAuthority for Cassette (5) (UnityEngine.GameObject) already has an owner. Use RemoveClientAuthority() first.
+[10:21:20.892] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (5) [netId=10] component Cassette (5) [index=1] without authority
+[10:21:22.701] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (1) [netId=11] component Cassette (1) [index=1] without authority
+[10:21:26.153] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (5) [netId=10] component Cassette (5) [index=1] without authority
+[10:21:27.987] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (1) [netId=11] component Cassette (1) [index=1] without authority
+[10:21:44.406] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (5) [netId=10] component Cassette (5) [index=1] without authority
+[10:21:46.602] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (1) [netId=11] component Cassette (1) [index=1] without authority
+[10:21:49.274] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (5) [netId=10] component Cassette (5) [index=1] without authority
+[10:21:51.722] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (3) [netId=14] component Cassette (3) [index=1] without authority
+[10:21:53.736] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (2) [netId=13] component Cassette (2) [index=1] without authority
+[10:21:59.907] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (5) [netId=10] component Cassette (5) [index=1] without authority
+[10:22:01.654] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (1) [netId=11] component Cassette (1) [index=1] without authority
+[10:22:03.049] [ERROR] AssignClientAuthority for Cassette (3) (UnityEngine.GameObject) already has an owner. Use RemoveClientAuthority() first.
+[10:22:10.606] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (3) [netId=14] component Cassette (3) [index=1] without authority
+[10:22:13.207] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (2) [netId=13] component Cassette (2) [index=1] without authority
+[10:22:15.255] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (1) [netId=11] component Cassette (1) [index=1] without authority
+[10:22:17.438] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (5) [netId=10] component Cassette (5) [index=1] without authority
+[10:22:20.171] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (2) [netId=13] component Cassette (2) [index=1] without authority
+[10:22:22.155] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (3) [netId=14] component Cassette (3) [index=1] without authority
+[10:22:27.561] [WARN ] Command CmdClientToServerSync__SyncData received for Cassette (5) [netId=10] component Cassette (5) [index=1] without authority
+[10:23:47.587] [INFO ] Client with ConnectionID 1 disconnected.
+[10:23:47.587] [INFO ] Connection 76561198829470550 state changed: k_ESteamNetworkingConnectionState_None
+[10:25:42.886] [INFO ] Transport shut down - server.
+
+[10:25:42.889] [INFO ] Oyun oturumu sonlandı.
