@@ -1,77 +1,35 @@
 ﻿==========================================================================
  OYUN LOG OTURUMU BAŞLADI
- Tarih/Saat : 2026-08-02 18:46:46
+ Tarih/Saat : 2026-08-02 19:24:35
  Platform   : WindowsPlayer
  Unity Sürüm: 6000.5.3f1
  Log Dosyası: C:\Users\ASUS\My project\Build\log.txt
 ==========================================================================
 
-[18:46:46.782] [INFO ] [GameLogger] Log sistemi aktif. Dosya konumu: C:\Users\ASUS\My project\Build\log.txt
-[18:46:46.866] [INFO ] [SpawnManager] Prefab kaydedildi: Player
-[18:46:46.873] [WARN ] The referenced script on this Behaviour (Game Object '<null>') is missing!
-[18:46:46.879] [INFO ] [ScenarioSessionManager] Loaded Assets -> Scenarios: 99, Innocents: 100, Criminals: 199
-[18:46:47.647] [INFO ] [Settings] Voice Mode changed: PTT=True
-[18:46:47.903] [INFO ] [SteamLobbyManager] Steamworks.NET initialized successfully. Local Steam ID: 76561199443114363
-[18:46:47.905] [INFO ] [CassetteRecorder] Command handler'lar kaydedildi (NetId=2954216822)
-[18:46:58.154] [INFO ] [SteamLobbyManager] Lobby created: 109775245165989577. Starting GameNet host...
-[18:46:58.154] [INFO ] [GameNet] Sunucu (Host) başlatılıyor...
-[18:46:58.156] [INFO ] [GameNet] 16 adet sahne objesi doğrulandı ve senkronizasyona eklendi.
-[18:46:58.156] [INFO ] [GameNet] Server baslatildi.
-[18:46:58.178] [INFO ] [SpawnManager] Spawned: Player (NetId: 1, Owner: 0) at (3.88, 2.60, -2.62)
-[18:46:58.178] [INFO ] [GameNet] Auto-Spawned Player for ConnectionId: 0 at (3.88, 2.60, -2.62)
-[18:46:58.178] [INFO ] [SteamVoiceChat] Unity Mikrofon ham ses modunda (48kHz, filtresiz, kesintisiz).
-[18:46:58.178] [INFO ] [SteamVoiceChat] Sunucu: CMD handler kayit edildi (NetId=1)
-[18:46:58.178] [INFO ] [SteamVoiceChat] RPC_RECEIVE_VOICE kayit edildi (NetId=1, IsServer=True)
-[18:46:58.352] [INFO ] [SteamVoiceChat] Yedek mikrofon basladi: 'Mikrofon (Realtek(R) Audio)' @ 48000Hz
-[18:46:58.357] [INFO ] <color=green>[PlayerLobbyState]</color> Local player initialized: Name='Yusufi', IsHost=True, SteamId=76561199443114363, IsReady=True
-[18:46:58.357] [INFO ] <color=cyan>[PlayerLobbyState] Server updated player info:</color> NetId=1, Name='Yusufi', IsHost=True, SteamId=76561199443114363, IsReady=True
-[19:04:07.618] [INFO ] <color=orange>[SteamLobbyUI] 'Start Game' clicked. Checking player ready states...</color>
-[19:04:07.618] [INFO ]    👤 Player in Lobby: Name='Yusufi', IsHost=True, IsReady=True
-[19:04:07.618] [INFO ] [SteamLobbyUI] ✅ All required players are ready. Invoking CmdStartGame...
-[19:04:07.619] [INFO ] <color=magenta>[PlayerLobbyState] CmdStartGame requested by 'Yusufi' (IsHost: True, NetRuntime.IsServer: True)</color>
-[19:04:07.619] [INFO ]    📋 Lobby Player: Name='Yusufi', IsHost=True, IsReady=True, ConnId=0
-[19:04:07.620] [INFO ] [ScenarioGameManager] Oyun başladı! Oyuncuların spawn olması bekleniyor. Beklenen: 1 oyuncu...
-[19:04:07.621] [INFO ] [ScenarioGameManager] Tüm oyuncular (1/1) başarıyla spawn oldu (0,0 sn sürdü). Rol dağıtımına geçiliyor.
-[19:04:07.622] [INFO ] [ScenarioGameManager] Senaryo dağıtımı başlatılıyor... Odadaki Aktif Oyuncu Sayısı: 1
-[19:04:07.625] [INFO ] <color=cyan>[Session Started]</color> Scenario: Sahilden Boğma Cinayeti
-[19:04:07.625] [INFO ] [Actual Criminals: 1 | Perceived by Witnesses: 1]
-[19:04:07.634] [INFO ] Player: Yusufi | Role: Innocent (Oda Arkadaşı (Boğma)) | Matching Tags Count: 2
-[19:04:07.634] [INFO ] Player: Oyuncu_Sanal_3 | Role: Detective (Dedektif) | Matching Tags Count: 0
-[19:04:07.634] [INFO ] Player: Oyuncu_Sanal_2 | Role: Criminal (Katil – Soğukkanlı Boğucu) | Matching Tags Count: 2
-[19:04:07.634] [INFO ] [ScenarioGameManager] StartSession completed. Assignments count: 3
-[19:04:07.634] [INFO ] [ScenarioGameManager Assignment 0] Name: Yusufi -> Role: Oda Arkadaşı (Boğma) (Innocent)
-[19:04:07.634] [INFO ] [ScenarioGameManager Assignment 1] Name: Oyuncu_Sanal_3 -> Role: Dedektif (Detective)
-[19:04:07.634] [INFO ] [ScenarioGameManager Assignment 2] Name: Oyuncu_Sanal_2 -> Role: Katil – Soğukkanlı Boğucu (Criminal)
-[19:04:07.634] [INFO ] [ServerAssignScenarioData] Assigned to Player: 'Yusufi' (NetId: 1) -> Role: Oda Arkadaşı (Boğma), Type: Innocent
-[19:04:07.634] [INFO ] <color=green>[Role Assigned]</color> Player: 'Yusufi' (NetId: 1) -> Assigned Role: Oda Arkadaşı (Boğma) (Innocent)
-[19:04:07.634] [INFO ] <color=cyan>[ScenarioGameManager]</color> Senaryo ve Roller tüm oyunculara GameNet üzerinden iletildi!
-[19:04:07.636] [INFO ] <color=cyan>[ScenarioGameManager]</color> StartScenarioDistributionFromLobby called. Resetting scenario initialization and starting wait...
-[19:04:07.636] [INFO ] [ScenarioGameManager] Oyun başladı! Oyuncuların spawn olması bekleniyor. Beklenen: 1 oyuncu...
-[19:04:07.636] [INFO ] [ScenarioGameManager] Tüm oyuncular (1/1) başarıyla spawn oldu (0,0 sn sürdü). Rol dağıtımına geçiliyor.
-[19:04:07.636] [INFO ] [ScenarioGameManager] Senaryo dağıtımı başlatılıyor... Odadaki Aktif Oyuncu Sayısı: 1
-[19:04:07.636] [INFO ] <color=cyan>[Session Started]</color> Scenario: Lüks Yatta Kaçırma
-[19:04:07.636] [INFO ] [Actual Criminals: 1 | Perceived by Witnesses: 1]
-[19:04:07.636] [INFO ] Player: Yusufi | Role: Criminal (Fidyeci – Ekip Lideri) | Matching Tags Count: 3
-[19:04:07.636] [INFO ] Player: Oyuncu_Sanal_3 | Role: Detective (Dedektif) | Matching Tags Count: 0
-[19:04:07.636] [INFO ] Player: Oyuncu_Sanal_2 | Role: Innocent (Kaçırılanın Annesi) | Matching Tags Count: 3
-[19:04:07.636] [INFO ] [ScenarioGameManager] StartSession completed. Assignments count: 3
-[19:04:07.636] [INFO ] [ScenarioGameManager Assignment 0] Name: Yusufi -> Role: Fidyeci – Ekip Lideri (Criminal)
-[19:04:07.636] [INFO ] [ScenarioGameManager Assignment 1] Name: Oyuncu_Sanal_3 -> Role: Dedektif (Detective)
-[19:04:07.636] [INFO ] [ScenarioGameManager Assignment 2] Name: Oyuncu_Sanal_2 -> Role: Kaçırılanın Annesi (Innocent)
-[19:04:07.636] [INFO ] [ServerAssignScenarioData] Assigned to Player: 'Yusufi' (NetId: 1) -> Role: Fidyeci – Ekip Lideri, Type: Criminal
-[19:04:07.636] [INFO ] <color=green>[Role Assigned]</color> Player: 'Yusufi' (NetId: 1) -> Assigned Role: Fidyeci – Ekip Lideri (Criminal)
-[19:04:07.636] [INFO ] <color=cyan>[ScenarioGameManager]</color> Senaryo ve Roller tüm oyunculara GameNet üzerinden iletildi!
-[19:04:19.288] [INFO ] [RpcSystem] HOST yerel RPC dispatch: netId=1, rpcId=71
-[19:04:36.562] [INFO ] [GameNet] Ağ bağlantısı kesiliyor (Disconnect).
-[19:04:36.569] [INFO ] [SteamLobbyManager] Left lobby.
-[19:04:36.581] [EXCEP] NullReferenceException: Object reference not set to an instance of an object.
-   ---> HATA DETAYI (STACK TRACE):
-        UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) (at <6f78c28ca2ab4fc78484bdc121250c55>:0)
-        UnityEngine.Component.get_transform () (at <6f78c28ca2ab4fc78484bdc121250c55>:0)
-        GameNet.Sync.TransformSync.get_IsDirty () (at <43982314cd6f449db4738d1f4d2fe9a2>:0)
-        GameNet.Core.NetworkTickSystem.BuildAndSendBatch () (at <43982314cd6f449db4738d1f4d2fe9a2>:0)
-        GameNet.Core.NetworkTickSystem.Tick (System.Single deltaTime) (at <43982314cd6f449db4738d1f4d2fe9a2>:0)
-        GameNet.Session.NetworkManager.Update () (at <43982314cd6f449db4738d1f4d2fe9a2>:0)
+[19:24:35.141] [INFO ] [GameLogger] Log sistemi aktif. Dosya konumu: C:\Users\ASUS\My project\Build\log.txt
+[19:24:35.236] [INFO ] [SpawnManager] Prefab kaydedildi: Player
+[19:24:35.243] [WARN ] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[19:24:35.248] [INFO ] [ScenarioSessionManager] Loaded Assets -> Scenarios: 99, Innocents: 100, Criminals: 199
+[19:24:35.948] [INFO ] [Settings] Voice Mode changed: PTT=True
+[19:24:36.216] [INFO ] [SteamLobbyManager] Steamworks.NET initialized successfully. Local Steam ID: 76561199443114363
+[19:24:36.219] [INFO ] [CassetteRecorder] Command handler'lar kaydedildi (NetId=2954216822)
+[19:24:42.662] [INFO ] [SteamLobbyManager] Joined lobby 109775245170033354. Connecting to host: 76561198351423216
+[19:24:42.665] [INFO ] [GameNet] İstemci olarak Host'a bağlanılıyor: 76561198351423216
+[19:24:42.705] [INFO ] [GameNet] 16 adet sahne objesi doğrulandı ve senkronizasyona eklendi.
+[19:24:42.706] [INFO ] [SteamTransport] Gelen bağlantı isteği (Connecting): 76561198351423216
+[19:24:44.681] [INFO ] [SteamTransport] Bağlantı başarılı (Connected): 76561198351423216
+[19:24:44.683] [INFO ] [GameNet] Baglanti kuruldu: 0
+[19:24:44.703] [INFO ] [GameNet] Handshake alindi. Atanan LocalConnectionId: 1
+[19:24:44.737] [INFO ] [SteamVoiceChat] Unity Mikrofon ham ses modunda (48kHz, filtresiz, kesintisiz).
+[19:24:44.737] [INFO ] [SteamVoiceChat] RPC_RECEIVE_VOICE kayit edildi (NetId=1, IsServer=False)
+[19:24:44.747] [INFO ] [SteamVoiceChat] AudioSource yapilandirildi (NetId=1, isLocal=False)
+[19:24:44.753] [INFO ] [SteamVoiceChat] Unity Mikrofon ham ses modunda (48kHz, filtresiz, kesintisiz).
+[19:24:44.753] [INFO ] [SteamVoiceChat] RPC_RECEIVE_VOICE kayit edildi (NetId=2, IsServer=False)
+[19:24:44.905] [INFO ] [SteamVoiceChat] Yedek mikrofon basladi: 'Mikrofon (Realtek(R) Audio)' @ 48000Hz
+[19:24:44.911] [INFO ] <color=green>[PlayerLobbyState]</color> Local player initialized: Name='Yusufi', IsHost=False, SteamId=76561199443114363, IsReady=False
+[19:24:45.362] [INFO ] [PlayerScenarioState ReadDelta] LocalPlayer IsOwner: True | NetId: 2 | Name: 'Yusufi', Role: 'Bilinmeyen Rol', Type: Criminal, Story Length: 0, Scenario Length: 0
+[19:24:47.807] [INFO ] <color=yellow>[SteamLobbyUI] Local Ready toggled -> True</color>
+[19:24:49.353] [INFO ] [PlayerScenarioState ReadDelta] LocalPlayer IsOwner: False | NetId: 1 | Name: 'Hearref', Role: 'Dedektif', Type: Detective, Story Length: 124, Scenario Length: 182
+[19:24:49.353] [INFO ] [PlayerScenarioState ReadDelta] LocalPlayer IsOwner: True | NetId: 2 | Name: 'Yusufi', Role: 'Kuyumcu Hırsızı – Tek Başına', Type: Criminal, Story Length: 173, Scenario Length: 182
 
-
-[19:04:37.248] [INFO ] Oyun oturumu sonlandı.
+[19:25:32.985] [INFO ] Oyun oturumu sonlandı.
